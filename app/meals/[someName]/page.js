@@ -1,6 +1,5 @@
 import ShareMeal from "../share/page";
 
-// Define the dynamic paths for static generation
 export async function generateStaticParams() {
     const mealNames = [
         "burger",
