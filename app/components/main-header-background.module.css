@@ -1,0 +1,12 @@
+.background {
+    position: relative;
+    background: linear-gradient(180deg, #0d3449, #115e87);
+    overflow: hidden;
+  }
+  
+  .svgBackground {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  

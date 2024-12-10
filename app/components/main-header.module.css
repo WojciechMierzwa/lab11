@@ -1,0 +1,16 @@
+.header {
+    background-color: #f8f9fa;
+    padding: 1rem;
+}
+
+.navList {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+    padding: 0;
+}
+
+.navItem {
+    font-size: 1.2rem;
+}
